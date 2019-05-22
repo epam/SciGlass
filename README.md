@@ -22,8 +22,9 @@ More than 3,800 ternary diagrams of glass formation.
  ## Usage
 
 All operations are performed on a 32-bit operating system under Windows OS.
-1.	Download SELECT.mdb to folder “C:\BASES”.
-2.	Download and Run Microsoft Access 2.0. 
+1.	Download the lates version of DB from releases folder: https://github.com/epam/SciGlass/releases
+2. Put SELECT.mdb and property.mdb to folder “C:\BASES”.
+2.	Setup and Run Microsoft Access 2.0. 
 3.	Using menu File -> Open Database 
 4.	Open file select.mdb from folder “C:\BASES
 5.	Go to the “ARHIV” tab
