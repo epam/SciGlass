@@ -22,7 +22,7 @@ More than 3,800 ternary diagrams of glass formation.
  ## Usage
 
 All operations are performed on a 32-bit operating system under Windows OS.
-1.	Download the lates version of DB from releases folder: https://github.com/epam/SciGlass/releases
+1.	Download the latest version of DB from releases folder: https://github.com/epam/SciGlass/releases
 ![general-view](docs/general/images/DB.png)
 
 2. Put select.mdb and property.mdb to folder “C:\BASES”.
