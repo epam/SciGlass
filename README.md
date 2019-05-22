@@ -18,3 +18,13 @@ More than 3,800 ternary diagrams of glass formation.
 * Subject Index. Explore hundreds of specialized subjects (e.g., diffusion of specific gases & ions), which are difficult to find by other ways.
 * Chemical Durability of Glasses. Pertinent data on about 35,000 glasses as well as access to a large compendium on standard durability testing methods.
 * Optimization of Glass Compositions. Find the most perspective glass compositions meeting a complex of requirements on specific values of their properties
+
+ ## Usage
+
+All operations are performed on a 32-bit operating system under Windows OS.
+1.	Download SELECT.mdb to folder “C:\BASES”.
+2.	Download and Run Microsoft Access 2.0. 
+3.	Using menu File -> Open Database 
+4.	Open file select.mdb from folder “C:\BASES
+5.	Go to the “ARHIV” tab
+6.	Open “ARHIV” tab
