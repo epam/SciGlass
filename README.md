@@ -34,7 +34,9 @@ All operations are performed on a 32-bit operating system under Windows OS.
 ![general-view](docs/general/images/select_file.png)
 
 6.	Go to the “ARHIV” table
+
 ![general-view](docs/general/images/ARCH.png)
 
 7.	Open “ARHIV” table
+
 ![general-view](docs/general/images/ARCH_table.png)
