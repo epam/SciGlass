@@ -28,17 +28,13 @@ All operations are performed on a 32-bit operating system under Windows OS.
 2. Put select.mdb and property.mdb to folder “C:\BASES”.
 3.	Setup and Run Microsoft Access 2.0. 
 4.	Using menu File -> Open Database 
-
 ![general-view](docs/general/images/open_db.png)
 
 5.	Open file select.mdb from folder “C:\BASES
-
 ![general-view](docs/general/images/select_file.png)
 
 6.	Go to the “ARHIV” table
-
 ![general-view](docs/general/images/ARCH.png)
 
 7.	Open “ARHIV” table
-
 ![general-view](docs/general/images/ARCH_table.png)
